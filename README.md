@@ -20,6 +20,18 @@ An AI-powered Streamlit application that analyzes resumes, identifies skills, co
 
 \- 📊 Career match analysis
 
+
+
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](01-home.png)
+
+### 📊 Skill Gap Analysis
+![Skill Gap Analysis](02-analysis-skill-gap.png)
+
+### 📄 Career Report
+![Career Report](03-career-report.png)
 \- 🔎 Skill gap identification
 
 \- 🗺️ Personalized learning roadmap
