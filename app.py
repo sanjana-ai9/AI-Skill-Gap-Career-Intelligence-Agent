@@ -1077,4 +1077,54 @@ st.download_button(
     file_name="career_intelligence_report.txt",
     mime="text/plain",
     use_container_width=True
+
+st.markdown("""
+<style>
+@media (max-width: 600px) {
+
+    .block-container {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+        padding-top: 1.5rem !important;
+    }
+
+    h1 {
+        font-size: 2rem !important;
+        line-height: 1.15 !important;
+        word-break: normal !important;
+    }
+
+    h2 {
+        font-size: 1.5rem !important;
+    }
+
+    h3 {
+        font-size: 1.2rem !important;
+    }
+
+    button[role="tab"] {
+        font-size: 0.82rem !important;
+        color: #242323 !important;
+        white-space: normal !important;
+        line-height: 1.2 !important;
+    }
+
+    [data-baseweb="tab-list"] {
+        gap: 0.15rem !important;
+    }
+
+    [data-baseweb="input"] input {
+        font-size: 16px !important;
+    }
+
+    label {
+        color: #242323 !important;
+    }
+
+    .stButton > button {
+        width: 100% !important;
+    }
+}
+</style>
+""")
 )
