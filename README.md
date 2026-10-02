@@ -89,9 +89,9 @@ Career Report
 
 ## 🚀 Live Demo
 
-[Open the AI Skill Gap & Career Intelligence Agent](https://ai-skill-gap-career-agent-sanjana.streamlit.app)
+<a href="https://ai-skill-gap-career-agent-sanjana.streamlit.app">🚀 Open Live App</a>
 
 ## 🎥 Demo Video
 
-[Watch the project demo video](./Video%20Project.mp4)
+<a href="./Video%20Project.mp4">▶️ Watch Demo Video</a>
 
