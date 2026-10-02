@@ -1077,6 +1077,7 @@ st.download_button(
     file_name="career_intelligence_report.txt",
     mime="text/plain",
     use_container_width=True
+)
 
 st.markdown("""
 <style>
