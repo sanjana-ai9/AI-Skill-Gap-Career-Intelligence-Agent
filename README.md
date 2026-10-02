@@ -86,3 +86,12 @@ Optional Assessment / Mock Interview
 
 Career Report
 
+
+## 🚀 Live Demo
+
+[Open the AI Skill Gap & Career Intelligence Agent](https://ai-skill-gap-career-agent-sanjana.streamlit.app)
+
+## 🎥 Demo Video
+
+[Watch the project demo video](./Video%20Project.mp4)
+
