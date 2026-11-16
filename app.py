@@ -208,7 +208,7 @@ if not st.session_state.logged_in:
 
 
     # =====================================================
-    # CREATE ACCOUNT
+# CREATE ACCOUNT
     # =====================================================
 
     with signup_tab:
